@@ -1,0 +1,38 @@
+body{
+    background: rgb(230, 207, 207);
+    margin-left: 25px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 100px;
+}
+
+h1{
+    color: red;
+    font-family: fantasy;
+}
+
+h2{
+    color: royalblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 22px;
+}
+
+footer {
+margin-top: 50px;
+margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    margin-bottom: 5px;
+    width: 60px;
+}
